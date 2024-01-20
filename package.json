@@ -1,0 +1,11 @@
+{
+  "name": "learn-react",
+  "version": "1.0.0",
+  "description": "This is a React Crash Course Project to learn react know how's fastly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanuj Mittal",
+  "license": "ISC"
+}
